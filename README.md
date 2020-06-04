@@ -10,7 +10,7 @@ To run:
 
 (Linux)
 
-1. In any command line application, run:
+1. In any command line application, navigate to the root directory of this project, and run:
 
 ```bash
 $ ./fast_food_ranker.sh
