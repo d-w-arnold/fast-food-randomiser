@@ -1,4 +1,4 @@
-# Fast Food Ranker
+# Fast Food Randomiser
 
 When you can't decide what food to have, use this tool to help you decide!
 
